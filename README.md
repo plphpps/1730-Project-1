@@ -8,7 +8,7 @@
 Each method and their solutions were discussed by the entire group before being completed. Each member of the group hashed out ideas and shared code on every method. Once we felt like we knew what we needed to do for each method the person chosen to submit the project (Andrew Phipps) typed out the final implementation, asking for suggestions and referring to the other group members' code when needed.
 
 **Questions**
-1. 3x3
+1. 3x3 - 9x9 inclusive
 2. A 2-D int array.
 3. greet()
 4. init(), draw(), move(), and won() 
